@@ -1,0 +1,67 @@
+{
+    "product_name": "Organic Red Tea",
+    "botanical_name": "Camellia sinensis",
+    "plant_part": "Leaf",
+    "country": {
+        "Code": "IN",
+        "Name": "India"
+    },
+    "organoleptic_description": [
+        {
+            "appearance_format": "Brittle, green/black leaf fragments",
+            "flavour": "Bright, malty, rich, slightly bitter",
+            "odour": "Slightly earthy, malty"
+        }
+    ],
+    "processing_details": [
+        {
+            "drying_method": "Warm Air",
+            "further_processing": "*"
+        }
+    ],
+    "microbiological_analysis": [
+        {
+            "tvc": "<5 x 10^7",
+            "salmonella": "Absent in 25g",
+            "e_coli": "<10^3",
+            "yeast_and_mould": "<5 x 10^5",
+            "enterobacteriacae": "<10^4 (only applicable to powdered items)"
+        }
+    ],
+    "contaminants": [
+        {
+            "pesticides": "In accordance with the BNN Orientation Values",
+            "mycotoxins": "In accordance with Regulation (EC) 1881/2006",
+            "pyrrolizidine_alkaloids": "In accordance with Regulation (EU) 2020/2040"
+        }
+    ],
+    "metal_detection": [
+        {
+            "fe": "3.5mm",
+            "non_fe": "5.5mm",
+            "s_s": "5.0mm"
+        }
+    ],
+    "kilo_packs": [
+        {
+            "outer_liner": "Brown paper packet ",
+            "outer_seal": "Polypropylene tape",
+            "inner_liner": "Food grade polythene liner",
+            "inner_seal": "Cellulose tape"
+        }
+    ],
+    "bulk_packs": [
+        {
+            "outer_liner": "White polypropylene sack/2 ply  paper",
+            "outer_seal": " Non re-sealable cable tie/stitching",
+            "inner_liner": "Food grade polythene liner",
+            "inner_seal": "Releasable cable tie"
+        }
+    ],
+    "declaration": [
+        {
+            "issued_by": "Emma Kitchen",
+            "position": "Project Manager"
+        }
+    ]
+}
